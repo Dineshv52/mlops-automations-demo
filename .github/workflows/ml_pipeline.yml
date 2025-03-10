@@ -1,4 +1,4 @@
-name: ML Pipelines
+name: ML New Pipelines
 
 on:
   push:
